@@ -12,9 +12,9 @@
 |10.| Should it be user friendly?|Yes ,it should be easy to use |YES|NO|NO|
 |11.| What extra features should the model have?|It should make shapes according to the given input. |NO|YES|NO| 
 |12.| Should it have a voice command?|The voice is generated after the shape is completely done. |YES|NO|NO|
-|13.| 
-|14.|
-|15.|
+|13.| Should it be portable?|Yes, easy to carry |YES|NO|NO|
+|14.| In what fraction of time the shape should it be generated?|20 seconds |NO|YES|NO|
+|15.| 
 
 
 
