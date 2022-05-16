@@ -18,20 +18,6 @@
 
 
 
-
-
-
-|6.|Can it be reused?|It can be reused by putting a new pair of cell once the old ones are dead|NO|YES|NO|
-|7.|How do you want your machine to be designed?|Low maintenance and easy to use|YES|NO|NO|
-|8.|Should it be challenging?|Challenging but should not frustrate the child|NO|YES|NO|
-|9.|How will this machine help in learning?|Better imagination, creative learning, problem solving ability|NO|YES|NO|
-|10.|Should it be portable?|Yes|YES|NO|NO|
-|11.|Should it have a LED?|Yes but should be small LED to not affect kids eyesight and should glow when the answer is right|NO|NO|YES|
-|12.|Should it be aesthetically appealing?|Yes, to attract the child|YES|NO|NO|
-|13.|How can this product be a disadvantage for you?|Over usage may lead to cut down of child's social interaction and social skills|NO|NO|YES|
-|14.|In what time the model should be delivered?|2 months |NO|NO|YES|
-|15.|Should the product be durable?|Yes|YES|NO|NO|
-
 ## **OBJECTIVE**
 * LOW MAINTAINANCE AND EASY TO USE.
 * CHALLENGING.
