@@ -1,0 +1,91 @@
+# **EDUCATIONAL MACHINE: MIKO 3**
+![](https://i.gadgets360cdn.com/large/Miko_3_martian_red_india_launch_1645180999443.jpg?downsize=950:*)
+## **WHAT IS MIKO 3?**
+Created by an enthusiastic team of robotics engineers, AI innovators, psychologists, and educators, Miko 3 is an AI-powered smart robot that uses playful, conversational learning to educate, engage and entertain kids aged 5-12 years. Miko 3 converses with the child through self-initiated conversations. It is enabled with a proprietary emotional intelligence engine, Face Recognition, Directional Hearing, enabling it to see, hear and sense the child's moods and grows with the child with every interaction. 
+## **HOW IS MIKO 3 AN EDUCATIONAL MACHINE?**
+Miko 3 offer age-appropriate content on science, technology, engineering and mathematics to improve the child’s learning experience. Miko 3 makes learning fun and easy with its super-powered brain and supportive personality. Housing a wide range of academic opportunities and an integrated learning platform that offers access to live classes from educators around the world, Miko is a healthy gateway to what technology has to offer.
+![](https://www.thetoyinsider.com/wp-content/uploads/2021/10/miko-3-robot.jpg)
+## **COMPONENTS**
+|Sl. no|NAME OF THE COMPONENTS|PICTURE|
+|------|----------------------|-------|
+|1.|WIDE ANGLE HD CAMERA|![](https://tse3.mm.bing.net/th?id=OIP.PhZUtc5-tnpJLSaY_fX5TgHaHa&pid=Api&P=0&w=165&h=165)|
+|2.|DUAL MEMS MICROPHONES|![](https://i.pinimg.com/originals/4d/58/f8/4d58f80d90b6251d369085d23c4daf62.jpg)|
+|3.|WIDE ANGLE HIGH RESOLUTION IPS DISPLAY|![](https://www.geeky-gadgets.com/wp-content/uploads/2020/02/wide-angle-IPS-TFT-display.jpg)|
+|4.|HIGH PERFORMANCE SPEAKERS|![](https://cdn.shopify.com/s/files/1/1629/6361/products/76000257-3.jpg?v=1571629653)|
+|5.|TIME OF FLIGHT RANGE SENSORS|![](https://cdn-shop.adafruit.com/1200x900/3978-02.jpg)|
+|6.|ODOMETRIC SENSORS|![](http://img.dxcdn.com/productimages/sku_151608_3.jpg)|
+|7.|RUBBERIZED WHEELS|![](https://tse3.mm.bing.net/th?id=OIP.dBsxKcTsvWaXniPobyqq6AHaHa&pid=Api&P=0&w=170&h=170)|
+|8.|BATTERY|![](https://www.bhphotovideo.com/images/images2000x2000/olight_186c35_18650_rechargeable_lithium_ion_battery_1387640.jpg)|
+|9.|TOUCHSCREEN|![](https://donteatalone.com/wp-content/uploads/2022/04/touch-screen-blog-e1599577334448.png)|
+
+Miko 3 is equipped with a wide-angle HD camera, time of flight range sensor, and odometric sensors that help the robot to map distance seamlessly and to avoid edges and obstacles. The expansive touchscreen provides a healthy alternative to playtime on smartphones and tablets. The Mikonnect video calling feature keeps kids and parents connected safely and seamlessly. The MIKO 3 comes with an IPS display which can be used for video calling, high performance speakers, rubber wheels, and ABS body, which is claimed to be engineered to be impact-resistant,non-toxic, and built to last.
+## **HOW IT WORKS**
+To connect with kids on a highly personal level and facilitate learning, Miko 3 was built around proprietary emotional intelligence; a complex conversational and multilingual ai framework; edge and hybrid speech and vision recognition; and an active learning and behavioral analysis engine. 
+
+This smart robot toy features an autonomous navigation system with an integrated wide-angle HD camera and odometric sensors to measure distances and detect edges.  
+
+Miko 3 also has a touchscreen that kids can use to improve learning experiences and connect with the family, parents can video chat with their kids. Miko 3 needs to stay connected to Wi-Fi to give kids access to amazing games and educational content. Kids can talk to their smart bot, ask questions and get answers. 
+
+## **ADVANTAGES OF MIKO 3**
+* It can talk, respond, educate, and provide entertainment.
+* It can understand your child’s needs, emotions, and likes and dislikes.
+* It helps in creative learning and better understanding.
+* It also helps to develop a better imagination and problem solving mind.
+* Kid learns with playing.
+* Parents don't need to pay attention while they are working when their kids are playing ('learning') with such robots. 
+* It is made up of a rugged ABS body, thus needing less maintenance.
+
+## **LIMITATIONS**
+* Miko has a set-up process that is fairly easy, but it can be a difficult task for some non-techy parents.
+* Thick carpets, glass, water, and wet surfaces should be avoided.
+## **REFERENCE**
+https://littlerobotshop.com/miko-3-review/
+## **CARD TYPE EDUCATIONAL MACHINE**
+![](https://m.media-amazon.com/images/I/61jYdUsoJgL._AC_SL1200_.jpg)
+## **WHAT IS CARD TYPE EDUCATIONAL MACHINE?**
+The learning machine is designed in a portable size and it is easy for you to carry and store, you can play it with your kids anytime anywhere. Specially designed for young children, the machine is small and light, with cute graphics, suitable for children's small hands. Live recording, standard pronunciation, No WIFI required. it lets kids have enough time to learn and play. 
+## **HOW IS CARD TYPE AN EDUCATIONAL MACHINE?**
+Educational literacy toy, allows children to make the connection between objects and their names with the flashcards. Perfect for preschoolers, matching letter helps develop memory skills, strategic thinking, sociability, spelling and increases word recognition. By this product the kids can learn names of different fruits, vegetables, animals etc. This further enhances the visual knowledge and the imagination of a child. When the card is inserted, the product makes a standard pronunciation and the voice of the object which helps the child to pronounce the words better and know the sounds of various objects.   
+![](https://m.media-amazon.com/images/I/71yj1LpXXeL._AC_SL1200_.jpg)
+## **COMPONENTS**
+|Sl.NO |NAME OF THE COMPONENTS|TYPES|PICTURE|
+|------|----------------------|-----|-------|
+|1.|300mAh BATTERY|ELECTRONIC|![](https://m.media-amazon.com/images/I/31qZBKuECWL.jpg)|
+|2.|USB CABLE|ELECTRONIC|![](https://m.media-amazon.com/images/I/61kT7kpt2hL._SL1500_.jpg)|
+|3.|CARD READER|ELECTRONIC|![](https://img.joomcdn.net/49e0abc1d993779b5434b1ed7007f4a8ba7448b8_original.jpeg)|
+|4.|MICRO SPEAKERS|ELECTRONIC|![](https://islproducts.com/wp-content/uploads/20mm-mylar-speaker-assembly.jpg)|
+|5.|CHIP SENSOR|ELECTRONIC|![](https://ars.els-cdn.com/content/image/3-s2.0-B9780444521903000318-gr15.jpg)|
+
+## **HOW IT WORKS?**
+![](https://m.media-amazon.com/images/S/aplus-media-library-service-media/87ec8e67-00f0-4aa4-bc8c-3dd37ba37604.__CR0,0,300,300_PT0_SX300_V1___.jpg)
+
+STEP 1:Insert the card to the card reader
+
+
+![](https://m.media-amazon.com/images/S/aplus-media-library-service-media/13650b6d-b668-412f-9200-b4d869e0cb3f.__CR0,0,300,300_PT0_SX300_V1___.jpg)
+
+STEP 2:The card reader will pronounce the word and make a sound
+
+
+![](https://m.media-amazon.com/images/S/aplus-media-library-service-media/7ee1c303-dfca-4015-82e3-95081c09cd04.__CR0,0,300,300_PT0_SX300_V1___.jpg)
+
+STEP 3:Press repeat button to replay the sound, press the volume button to adjust volume
+
+## **ADVANTAGES**
+* Easy to Use for Toddler.
+* As no screen is used, it protects baby's eyesight.
+* Fun and educational toys which helps kid to recognize essential words.
+* Light weight and convenient to handle.
+* Low maintenance and easy to use. 
+* Strengthening parent children interaction.
+
+## **LIMITATIONS**
+* The kid can learn only limited words.
+
+## ** REFERENCE**
+https://www.amazon.com/dp/B09F2XPKTK/ref=sspa_dk_detail_0?spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMkRPUDdCSDJVUlM2JmVuY3J5cHRlZElkPUEwODQ3NDY0M0hKTk5WRktSWUdJViZlbmNyeXB0ZWRBZElkPUEwNzM5NDU1MUtISzRCMDYzVDhGWCZ3aWRnZXROYW1lPXNwX2RldGFpbDImYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1
+
+
+
+
+
