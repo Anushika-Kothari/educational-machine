@@ -14,7 +14,7 @@
 |12.| Should it have a voice command?|The voice is generated after the shape is completely done. |YES|NO|NO|
 |13.| Should it be portable?|Yes, easy to carry |YES|NO|NO|
 |14.| In what fraction of time the shape should it be generated?|20 seconds |NO|YES|NO|
-|15.| 
+|15.| What all shapes does it show?|Triangle,Square,Rectangle,Hexagon,Circle
 
 
 
