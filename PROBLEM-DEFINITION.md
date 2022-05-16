@@ -2,9 +2,25 @@
 |------|---------|-------|----------|--------|----------|
 |1.|What should be the dimensions of the machine?|2ft*2ft*2ft|NO|NO|YES|
 |2.|What should be the age group for this project?|3-8 years|NO|NO|YES|
-|3.|What should be the budget of the machine?|4000-5000|NO|NO|YES|
-|4.|What should be the weight of the machine?|2 kg|NO|NO|YES|
-|5.|What is that one thing that child should inculcate after operating it?|Develop a skill or have knowledge about that subject|NO|YES|NO|
+|3.|What should be the budget of the machine?|2000-3000|NO|NO|YES|
+|4.|What should be the weight of the machine?| 1 kg |NO|NO|YES|
+|5.|What is that one thing that child should inculcate after operating it?|Should get familiar with basic shapes |NO|YES|NO|
+|6.|Should it be aesthetically appealing?|Yes, to attract the child |YES|NO|NO|
+|7.|How many shapes do you want to generate?|4-5|NO|NO|YES|
+|8.|Will it help the child in creative learning?|Yes, this will enable child to generate shapes in different ways |NO|YES|NO| 
+|9.| Within what duration machine should be delivered?|Within 2 months |NO|NO|YES|
+|10.| Should it be user friendly?|Yes ,it should be easy to use |YES|NO|NO|
+|11.| What extra features should the model have?|It should make shapes according to the given input. |NO|YES|NO| 
+|12.| Should it have a voice command?|The voice is generated after the shape is completely done. |YES|NO|NO|
+|13.| 
+|14.|
+|15.|
+
+
+
+
+
+
 |6.|Can it be reused?|It can be reused by putting a new pair of cell once the old ones are dead|NO|YES|NO|
 |7.|How do you want your machine to be designed?|Low maintenance and easy to use|YES|NO|NO|
 |8.|Should it be challenging?|Challenging but should not frustrate the child|NO|YES|NO|
