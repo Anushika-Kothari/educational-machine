@@ -15,20 +15,24 @@
 |13.| Should it be portable?|Yes, easy to carry |YES|NO|NO|
 |14.| In what fraction of time the shape should it be generated?|20 seconds |NO|YES|NO|
 |15.| Should the machine be connected via bluetooth?|Yes. The shape to be generated is to be clicked by the child |NO|YES|NO|
+|16.| Should it be semi-automatic?|YES|YES|NO|NO|
+|17.| 
 
 
 
 
 ## **OBJECTIVE**
-* LOW MAINTAINANCE AND EASY TO USE.
-* CHALLENGING.
+* USER FRIENDLY
+* SEMI-AUTOMATIC
+* HAVE A VOICE COMMAND WHEN THE SHAPE IS GENERATED.
 * PORTABLE.
 * AESTHETICALLY PLEASING.
-* DURABLE.
+*
+
 
 
 ## **PROBLEM DEFINITION (VERSION 1)**
-A low maintenance and easy to use machine that is portable. It should be challenging but at the same time teach a child about a subject or a skill. The product should be aesthetically pleasing and durable.
+
 
 ## **FUNCTIONS**
 * DEVELOP A SKILL OR LEARN A SUBJECT.
