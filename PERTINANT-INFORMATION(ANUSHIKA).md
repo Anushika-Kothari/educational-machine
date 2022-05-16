@@ -6,17 +6,17 @@ Created by an enthusiastic team of robotics engineers, AI innovators, psychologi
 Miko 3 offer age-appropriate content on science, technology, engineering and mathematics to improve the child’s learning experience. Miko 3 makes learning fun and easy with its super-powered brain and supportive personality. Housing a wide range of academic opportunities and an integrated learning platform that offers access to live classes from educators around the world, Miko is a healthy gateway to what technology has to offer.
 ![](https://www.thetoyinsider.com/wp-content/uploads/2021/10/miko-3-robot.jpg)
 ## **COMPONENTS**
-|Sl. no|NAME OF THE COMPONENTS|PICTURE|
-|------|----------------------|-------|
-|1.|WIDE ANGLE HD CAMERA|![](https://tse3.mm.bing.net/th?id=OIP.PhZUtc5-tnpJLSaY_fX5TgHaHa&pid=Api&P=0&w=165&h=165)|
-|2.|DUAL MEMS MICROPHONES|![](https://i.pinimg.com/originals/4d/58/f8/4d58f80d90b6251d369085d23c4daf62.jpg)|
-|3.|WIDE ANGLE HIGH RESOLUTION IPS DISPLAY|![](https://www.geeky-gadgets.com/wp-content/uploads/2020/02/wide-angle-IPS-TFT-display.jpg)|
-|4.|HIGH PERFORMANCE SPEAKERS|![](https://cdn.shopify.com/s/files/1/1629/6361/products/76000257-3.jpg?v=1571629653)|
-|5.|TIME OF FLIGHT RANGE SENSORS|![](https://cdn-shop.adafruit.com/1200x900/3978-02.jpg)|
-|6.|ODOMETRIC SENSORS|![](http://img.dxcdn.com/productimages/sku_151608_3.jpg)|
-|7.|RUBBERIZED WHEELS|![](https://tse3.mm.bing.net/th?id=OIP.dBsxKcTsvWaXniPobyqq6AHaHa&pid=Api&P=0&w=170&h=170)|
-|8.|BATTERY|![](https://www.bhphotovideo.com/images/images2000x2000/olight_186c35_18650_rechargeable_lithium_ion_battery_1387640.jpg)|
-|9.|TOUCHSCREEN|![](https://donteatalone.com/wp-content/uploads/2022/04/touch-screen-blog-e1599577334448.png)|
+|Sl. no|NAME OF THE COMPONENTS|TYPE|PICTURE|
+|------|----------------------|----|-------|
+|1.|WIDE ANGLE HD CAMERA|ELECTRONIC|![](https://tse3.mm.bing.net/th?id=OIP.PhZUtc5-tnpJLSaY_fX5TgHaHa&pid=Api&P=0&w=165&h=165)|
+|2.|DUAL MEMS MICROPHONES|ELECTRONIC|![](https://i.pinimg.com/originals/4d/58/f8/4d58f80d90b6251d369085d23c4daf62.jpg)|
+|3.|WIDE ANGLE HIGH RESOLUTION IPS DISPLAY|ELECTRONIC|![](https://www.geeky-gadgets.com/wp-content/uploads/2020/02/wide-angle-IPS-TFT-display.jpg)|
+|4.|HIGH PERFORMANCE SPEAKERS|ELECTRONIC|![](https://cdn.shopify.com/s/files/1/1629/6361/products/76000257-3.jpg?v=1571629653)|
+|5.|TIME OF FLIGHT RANGE SENSORS|ELECTRONIC|![](https://cdn-shop.adafruit.com/1200x900/3978-02.jpg)|
+|6.|ODOMETRIC SENSORS|ELECTRONIC|![](http://img.dxcdn.com/productimages/sku_151608_3.jpg)|
+|7.|RUBBERIZED WHEELS|MECHANICAL|![](https://tse3.mm.bing.net/th?id=OIP.dBsxKcTsvWaXniPobyqq6AHaHa&pid=Api&P=0&w=170&h=170)|
+|8.|BATTERY|ELECTRONIC|![](https://www.bhphotovideo.com/images/images2000x2000/olight_186c35_18650_rechargeable_lithium_ion_battery_1387640.jpg)|
+|9.|TOUCHSCREEN|ELECTRONIC|![](https://donteatalone.com/wp-content/uploads/2022/04/touch-screen-blog-e1599577334448.png)|
 
 Miko 3 is equipped with a wide-angle HD camera, time of flight range sensor, and odometric sensors that help the robot to map distance seamlessly and to avoid edges and obstacles. The expansive touchscreen provides a healthy alternative to playtime on smartphones and tablets. The Mikonnect video calling feature keeps kids and parents connected safely and seamlessly. The MIKO 3 comes with an IPS display which can be used for video calling, high performance speakers, rubber wheels, and ABS body, which is claimed to be engineered to be impact-resistant,non-toxic, and built to last.
 ## **HOW IT WORKS**
