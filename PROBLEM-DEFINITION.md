@@ -34,7 +34,7 @@
 
 
 ## **PROBLEM DEFINITION (VERSION 1)**
-Create a semi-automatic and  user friendly shape generator machine. The machine should be aesthetically pleasing as well as portable. The main objective of the machine is to teach the child the basic shapes. The machine will help the child in creative learning as the child will learn to generate shapes in different ways.
+Design a semi-automatic and  user friendly shape generator machine. The machine should be aesthetically pleasing as well as portable. The main objective of the machine is to teach the child the basic shapes. The machine will help the child in creative learning as the child will learn to generate shapes in different ways.
 
 
 ## **FUNCTIONS**
@@ -45,7 +45,7 @@ Create a semi-automatic and  user friendly shape generator machine. The machine 
 
 
 ## **PROBLEM DEFINITION (VERSION 2)**
-Create a semi-automatic and  user friendly shape generator machine. The machine should be aesthetically pleasing as well as portable. The main objective of the machine is to teach the child the basic shapes. The machine will help the child in creative learning as the child will learn to generate shapes in different ways. The machine should be bluetooth activated for the child to pick the shape to be generated. The shape should be generated within 20 seconds of time. Once the shape is fully generated, a voice note telling the name of the shape is activated. 
+Design a semi-automatic and  user friendly shape generator machine. The machine should be aesthetically pleasing as well as portable. The main objective of the machine is to teach the child the basic shapes. The machine will help the child in creative learning as the child will learn to generate shapes in different ways. The machine should be bluetooth activated for the child to pick the shape to be generated. The shape should be generated within 20 seconds of time. Once the shape is fully generated, a voice note telling the name of the shape is activated. 
 
 ## **CONSTRAINTS**
 * DIMENSIONS SHOULD BE 2FT×2FT×2FT.
@@ -57,7 +57,7 @@ Create a semi-automatic and  user friendly shape generator machine. The machine 
 
 
 ## **PROBLEM DEFINITION (VERSION 3)**
-Create a semi-automatic and  user friendly shape generator machine. The machine should be aesthetically pleasing as well as portable. The main objective of the machine is to teach the child the basic shapes. The machine will help the child in creative learning as the child will learn to generate shapes in different ways. The machine should be bluetooth activated for the child to pick the shape to be generated. The shape should be generated within 20 seconds of time. Once the shape is fully generated, a voice note telling the name of the shape is activated. The machine should be of dimensions 2ft×2ft×2ft apt for the age group of 3-8 years costing around 2000-3000 and weighing upto 1kg.The number of shapes that the machine can generate are 4-5. The product should be delivered within 2 months of time.
+Design a semi-automatic and  user friendly shape generator machine. The machine should be aesthetically pleasing as well as portable. The main objective of the machine is to teach the child the basic shapes. The machine will help the child in creative learning as the child will learn to generate shapes in different ways. The machine should be bluetooth activated for the child to pick the shape to be generated. The shape should be generated within 20 seconds of time. Once the shape is fully generated, a voice note telling the name of the shape is activated. The machine should be of dimensions 2ft×2ft×2ft apt for the age group of 3-8 years costing around 2000-3000 and weighing upto 1kg.The number of shapes that the machine can generate are 4-5. The product should be delivered within 2 months of time.
 
 
 
