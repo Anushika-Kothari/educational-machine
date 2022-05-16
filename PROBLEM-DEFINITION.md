@@ -4,19 +4,19 @@
 |2.|What should be the age group for this project?|3-8 years|NO|NO|YES|
 |3.|What should be the budget of the machine?|2000-3000|NO|NO|YES|
 |4.|What should be the weight of the machine?| 1 kg |NO|NO|YES|
-|5.|What is that one thing that child should inculcate after operating it?|Should get familiar with basic shapes |NO|YES|NO|
+|5.|What is that one thing that child should inculcate after operating it?|Should get familiar with basic shapes|YES|NO|NO|
 |6.|Should it be aesthetically appealing?|Yes, to attract the child |YES|NO|NO|
 |7.|How many shapes do you want to generate?|4-5|NO|NO|YES|
 |8.|Will it help the child in creative learning?|Yes, this will enable child to generate shapes in different ways |NO|YES|NO| 
 |9.| Within what duration machine should be delivered?|Within 2 months |NO|NO|YES|
 |10.| Should it be user friendly?|Yes ,it should be easy to use |YES|NO|NO|
 |11.| What extra features should the model have?|It should make shapes according to the given input. |NO|YES|NO| 
-|12.| Should it have a voice command?|The voice is generated after the shape is completely done. |YES|NO|NO|
+|12.| Should it have a voice command?|The voice is generated after the shape is completely done. |NO|YES|NO|
 |13.| Should it be portable?|Yes, easy to carry |YES|NO|NO|
 |14.| In what fraction of time the shape should it be generated?|20 seconds |NO|YES|NO|
-|15.| Should the machine be connected via bluetooth?|Yes. The shape to be generated is to be clicked by the child |NO|YES|NO|
+|15.| Should the machine be bluetooth activated?|Yes. The shape to be generated is to be clicked by the child |NO|YES|NO|
 |16.| Should it be semi-automatic?|YES|YES|NO|NO|
-|17.| 
+
 
 
 
@@ -24,37 +24,40 @@
 ## **OBJECTIVE**
 * USER FRIENDLY
 * SEMI-AUTOMATIC
-* HAVE A VOICE COMMAND WHEN THE SHAPE IS GENERATED.
 * PORTABLE.
 * AESTHETICALLY PLEASING.
-*
+* THE CHILD SHOULD BE ABLE TO LEARN THE BASIC SHAPES.
+* HELPS IN CREATIVE LEARNING AS THE CHILD WILL LEARN TO GENERATE SHAPES IN DIFFERENT WAYS.
+
+
 
 
 
 ## **PROBLEM DEFINITION (VERSION 1)**
+Create a semi-automatic and  user friendly shape generator machine. The machine should be aesthetically pleasing as well as portable. The main objective of the machine is to teach the child the basic shapes. The machine will help the child in creative learning as the child will learn to generate shapes in different ways.
 
 
 ## **FUNCTIONS**
-* DEVELOP A SKILL OR LEARN A SUBJECT.
-* REUSABLE.
-* TO IMPROVE IMAGINATION THAT HELPS IN PROBLEM SOLVING.
-* HELPS IN CREATIVE LEARNING.
-* LED LIGHT THAT GLOWS WHEN ANSWER IS RIGHT.
+* BLUETOOTH ACTIVATED
+* SHOULD GENERATE SHAPE ACCORDING TO THE GIVEN INPUT OF THE CHILD
+* THE SHAPE SHOULD BE GENERATED WITHIN 20 SECONDS
+* SHOULD GIVE A VOICE NOTE ON THE SHAPE GENERATED ONCE ITS COMPLETELY DONE
+
 
 ## **PROBLEM DEFINITION (VERSION 2)**
-A low maintenance and easy to use machine that is portable. It should be challenging but at the same time teach a child about a subject or a skill. The product should be aesthetically pleasing and durable.The product should be reusable that improves imagination and imbibes creative learning at the same time also makes the mind a problem solver. The product glows only when the answer is right.
+Create a semi-automatic and  user friendly shape generator machine. The machine should be aesthetically pleasing as well as portable. The main objective of the machine is to teach the child the basic shapes. The machine will help the child in creative learning as the child will learn to generate shapes in different ways. The machine should be bluetooth activated for the child to pick the shape to be generated. The shape should be generated within 20 seconds of time. Once the shape is fully generated, a voice note telling the name of the shape is activated. 
 
 ## **CONSTRAINTS**
 * DIMENSIONS SHOULD BE 2FT*2FT*2FT.
 * AGE GROUP SHOULD BE 3-8 YEARS.
-* BUDGET OF THE MACHINE SHOULD BE 4000-5000.
-* WEIGHT OF THE MACHINE SHOULD BE 2KG.
-* HAVE A SMALL LED THAT DOESN'T AFFECT THE VISIBILITY OF THE CHILD.
-* OVER USAGE MAY CUT DOWN SOCIAL INTERACTION AND SOCIAL SKILLS.
+* BUDGET OF THE MACHINE SHOULD BE 2000-3000.
+* WEIGHT OF THE MACHINE SHOULD BE 1KG.
 * THE PRODUCT SHOULD BE DELIVERED WITHIN 2 MONTHS.
+* THE NUMBER OF SHAPES GENERATED ARE 4-5.
+
 
 ## **PROBLEM DEFINITION (VERSION 3)**
-A low maintenance and easy to use machine that is portable. It should be challenging but at the same time teach a child about a subject or a skill. The product should be aesthetically pleasing and durable.The product should be reusable that improves imagination and imbibes creative learning at the same time also makes the mind a problem solver. The product glows only when the answer is right. The product should be of dimensions 2ft*2ft*2ft apt for the age group of 3-8 years costing around 4000-5000 and weighing upto 2kg.Restrict the child to not overuse the product as it may hinder child's social interaction and social skills. The product should have a small LED that doesn't affect the visibility of the child. The product should be delivered within 2 months of time.
+Create a semi-automatic and  user friendly shape generator machine. The machine should be aesthetically pleasing as well as portable. The main objective of the machine is to teach the child the basic shapes. The machine will help the child in creative learning as the child will learn to generate shapes in different ways. The machine should be bluetooth activated for the child to pick the shape to be generated. The shape should be generated within 20 seconds of time. Once the shape is fully generated, a voice note telling the name of the shape is activated. The machine should be of dimensions 2ft*2ft*2ft apt for the age group of 3-8 years costing around 2000-3000 and weighing upto 1kg.The number of shapes that the machine can generate are 4-5. The product should be delivered within 2 months of time.
 
 
 
