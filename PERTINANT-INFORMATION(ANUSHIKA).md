@@ -82,7 +82,7 @@ STEP 3:Press repeat button to replay the sound, press the volume button to adjus
 ## **LIMITATIONS**
 * The kid can learn only limited words.
 
-## ** REFERENCE**
+## **REFERENCE**
 https://www.amazon.com/dp/B09F2XPKTK/ref=sspa_dk_detail_0?spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMkRPUDdCSDJVUlM2JmVuY3J5cHRlZElkPUEwODQ3NDY0M0hKTk5WRktSWUdJViZlbmNyeXB0ZWRBZElkPUEwNzM5NDU1MUtISzRCMDYzVDhGWCZ3aWRnZXROYW1lPXNwX2RldGFpbDImYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1
 
 
