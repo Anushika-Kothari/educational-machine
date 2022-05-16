@@ -35,7 +35,7 @@ A low maintenance and easy to use machine that is portable. It should be challen
 * LED LIGHT THAT GLOWS WHEN ANSWER IS RIGHT.
 
 ## **PROBLEM DEFINITION (VERSION 2)**
-A low maintenance and easy to use machine that is portable. It should be challenging but at the same time teach a child about a subject or a skill. The product should be aesthetically pleasing and durable.The product should be reusable that helps in developing a skill or learning a subject .Thus, improves imagination and imbibes creative learning at the same time also makes the mind a problem solver. The product glows only when the answer is right.
+A low maintenance and easy to use machine that is portable. It should be challenging but at the same time teach a child about a subject or a skill. The product should be aesthetically pleasing and durable.The product should be reusable that improves imagination and imbibes creative learning at the same time also makes the mind a problem solver. The product glows only when the answer is right.
 
 ## **CONSTRAINTS**
 * DIMENSIONS SHOULD BE 2FT*2FT*2FT.
@@ -47,7 +47,7 @@ A low maintenance and easy to use machine that is portable. It should be challen
 * THE PRODUCT SHOULD BE DELIVERED WITHIN 2 MONTHS.
 
 ## **PROBLEM DEFINITION (VERSION 3)**
-A low maintenance and easy to use machine that is portable. It should be challenging but at the same time teach a child about a subject or a skill. The product should be aesthetically pleasing and durable.The product should be reusable that helps in developing a skill or learning a subject .Thus, improves imagination and imbibes creative learning at the same time also makes the mind a problem solver. The product glows only when the answer is right. The product should be of dimensions 2ft*2ft*2ft apt for the age group of 3-8 years costing around 4000-5000 and weighing upto 2kg.Restrict the child to not overuse the product as it may hinder child's social interaction and social skills. The product should have a small LED that doesn't affect the visibility of the child. The product should be delivered within 2 months of time.
+A low maintenance and easy to use machine that is portable. It should be challenging but at the same time teach a child about a subject or a skill. The product should be aesthetically pleasing and durable.The product should be reusable that improves imagination and imbibes creative learning at the same time also makes the mind a problem solver. The product glows only when the answer is right. The product should be of dimensions 2ft*2ft*2ft apt for the age group of 3-8 years costing around 4000-5000 and weighing upto 2kg.Restrict the child to not overuse the product as it may hinder child's social interaction and social skills. The product should have a small LED that doesn't affect the visibility of the child. The product should be delivered within 2 months of time.
 
 
 
