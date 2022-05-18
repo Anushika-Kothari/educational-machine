@@ -1,4 +1,4 @@
-# Pertinent Information (Vighnesh)
+# PERTINENT INFORMATION (Vighnesh)
 |Project|Objective|Function|Components|
 |-------|---------|--------|----------|
 |__**1. FIRE FIGHTING BOT**__|To Extinguish fire|It will automatically sense the fire and start the water jump|* **Arduino UNO**-Manipulating/simulating bot. **L293-Motor Driver** - For Simulating DC Motor. **Flame sensor** - senses the fire . **Wheels** - For the motion of the Bot. **Servo** - Facilitates the spraying of water. **Battery**-For powering the bot. ** Jumper** - For connnecting different components of the Bot. **Mini Breadboard**-Mounting the circuital components. **Container**-To store the water.
