@@ -1,11 +1,11 @@
-# ****5.4 SUBSYSTEM LIST****
+# ****5.4 Subsytem List****
 |Sl. no| Subsystem |
 |------|-----------|
 |1.| User Interface Unit |
 |2.| Shape Displaying Unit |
 |3.| Indication Unit |
 
-# ****5.5 INTERACTION DETAILS****
+# ****5.5 Interaction Details****
 |User-Interface Unit| Shape Displaying Unit | Indication Unit |
 |-------------------|-----------------------|-----------------|
 |Spatial Interaction | YES | NO|
