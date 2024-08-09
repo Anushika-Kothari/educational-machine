@@ -8,48 +8,51 @@ This project aims to design a semi-automatic, user-friendly, and interactive sha
 
 ✨ **Key Features**
 
-👶 **User-Friendly**: The machine is designed to be simple and intuitive for young children to use.
 
-⚙️ **Semi-Automatic Operation**: The machine requires minimal manual intervention while still being controlled by the user.
+👶 *User-Friendly*: The machine is designed to be simple and intuitive for young children to use.
 
-🚀 **Portable**: Compact and lightweight, making it easy to transport and handle.
+⚙️ *Semi-Automatic Operation*: The machine requires minimal manual intervention while still being controlled by the user.
 
-🎨 **Aesthetically Pleasing**: Designed with children in mind, the machine is visually appealing to attract and retain their interest.
+🚀 *Portable*: Compact and lightweight, making it easy to transport and handle.
 
-🧩 **Interactive Learning**: Engages children by teaching them basic shapes and helping them to analyze and understand them.
+🎨 *Aesthetically Pleasing*: Designed with children in mind, the machine is visually appealing to attract and retain their interest.
 
-🏆 **Reward System**: The machine rewards the child for correct responses, encouraging continued learning and play.
+🧩 *Interactive Learning*: Engages children by teaching them basic shapes and helping them to analyze and understand them.
 
-🔒 **Safety Considerations**: Made from non-toxic materials and includes safety features like limited screen usage to protect eyesight.
+🏆 *Reward System*: The machine rewards the child for correct responses, encouraging continued learning and play.
+
+🔒 *Safety Considerations*: Made from non-toxic materials and includes safety features like limited screen usage to protect eyesight.
 
 
 
 📐 **Specifications**
 
-📏 **Dimensions**: 2ft × 2ft × 2ft
 
-🎂 **Age Group**: Suitable for children aged 3-5 years
+📏 *Dimensions*: 2ft × 2ft × 2ft
 
-💰 **Budget**: Rs 2000-3000
+🎂 *Age Group*: Suitable for children aged 3-5 years
 
-⚖️ **Weight**: 2Kg
+💰 *Budget*: Rs 2000-3000
 
-⏱️ **Operation Time**: Can run continuously for a minimum of 3 hours
+⚖️ *Weight*: 2Kg
 
-📅 **Delivery Time**: The machine should be ready within 2 months
+⏱️ *Operation Time*: Can run continuously for a minimum of 3 hours
 
-🔢 **Shapes**: Displays 8-10 different shapes
+📅 *Delivery Time*: The machine should be ready within 2 months
+
+🔢 *Shapes*: Displays 8-10 different shapes
 
 
 
 🛠️ **Functionalities**
 
-🕹️ **User-Controlled**: The machine offers options to the user and is controlled by the child.
 
-🚨 **Signal at Initiation**: Sends a signal to indicate when the machine starts.
+🕹️ *User-Controlled*: The machine offers options to the user and is controlled by the child.
 
-🔊 **Audio/Visual Indicators**: Provides feedback through audio or visual indicators for correct or incorrect answers.
+🚨 *Signal at Initiation*: Sends a signal to indicate when the machine starts.
 
-⏹️ **Auto Stop**: The motor stops automatically at the indicated time.
+🔊 *Audio/Visual Indicators*: Provides feedback through audio or visual indicators for correct or incorrect answers.
 
-⚠️ **Error Alerts**: Alerts the user in case of any errors or malfunctions.
+⏹️ *Auto Stop*: The motor stops automatically at the indicated time.
+
+⚠️ *Error Alerts*: Alerts the user in case of any errors or malfunctions.
